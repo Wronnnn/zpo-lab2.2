@@ -1,0 +1,8 @@
+# ninja log v5
+7	377	7501370941517293	CMakeFiles/lab2.dir/TeamLeader.cpp.obj	dc40d2dfd14e564b
+5	380	7501370941547286	CMakeFiles/lab2.dir/Developer.cpp.obj	d9717688a27c4e46
+1	380	7501370941547286	CMakeFiles/lab2.dir/main.cpp.obj	52dd9e20ca6ffe0c
+3	380	7501370941567294	CMakeFiles/lab2.dir/Employee.cpp.obj	1caf72daf614d68a
+381	511	7501370942848066	lab2.exe	84aff78d4723870f
+4	268	7501374857988380	CMakeFiles/lab2.dir/main.cpp.obj	52dd9e20ca6ffe0c
+268	366	7501374858953065	lab2.exe	84aff78d4723870f
